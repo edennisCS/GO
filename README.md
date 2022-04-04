@@ -1,3 +1,3 @@
 # GO
 
-Go practice code
+Go Language practice code
