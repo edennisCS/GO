@@ -1,0 +1,9 @@
+package main
+
+import "fmt"
+
+func main() {
+  var favoriteSnack string 
+  favoriteSnack = "ice cream"
+  fmt.Println("My favorite snack is " + favoriteSnack)
+}
