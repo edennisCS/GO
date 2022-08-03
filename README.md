@@ -1,3 +1,2 @@
-# GO Lang
-
+# GO
 Go Language practice code
